@@ -17,6 +17,7 @@ from bs4 import BeautifulSoup
 import tool
 import lxml.html
 from lxml import etree
+import csv
 
 
 tool = tool.Tool()
@@ -312,13 +313,49 @@ while i <len(urls):
     datas.append([url,title,block,type,area,floor,orientation,buildtime,distance,tax,key,price,price_pre,num])
     i += 1
 
-for data in datas:
-    print data[0],data[1],data[2],data[3],data[4],data[5],data[6],data[7],data[8],data[9],data[10],data[11],data[12],data[13]
+# for data in datas:
+#     print data[0],data[1],data[2],data[3],data[4],data[5],data[6],data[7],data[8],data[9],data[10],data[11],data[12],data[13]
 
 #数据存储
 #存储到TXT
+#建立文件
+#设置文件名
+# title = "sh_lianjia_ershoufang"
+# #打开要写的文件，没有的话创建，参数w表示重新写入
+# file = open(title+".txt","w")
+#
+# #开始写入文件
+# for data in datas:
+#     # data = data.encode('utf-8')
+#     file_data = []
+#     for item in data:
+#         item = item.strip().encode('utf-8')
+#         #不能写入列表，只能一个一个写入,默认空格区分
+#         file.write(item+",")
+#     file.write("\n")
+#     # print file_data
+#     # file.write(file_data)
+#
+# print "file is writed"
+# file = open("sh_lianjia_ershoufang.txt","r")
+# f = file.readlines()
+# print f
+# for i in f:
+#     print i
 
 #存储到CSV
+csvfile = file('csv_sh_lj_2s.csv','wb')
+writer = csv.writer(csvfile)
+
+for data in datas:
+    csv_data = []
+    for item in data:
+        item = item.strip().encode('utf-8')
+        csv_data.append(item)
+    writer.writerow(csv_data)
+
+csvfile.close()
+
 
 
 
