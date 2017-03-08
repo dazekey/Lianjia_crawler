@@ -12,6 +12,8 @@ from lxml import etree
 import csv
 import time
 import pandas
+import random
+import requests
 
 class lj_2sf:
 
@@ -20,16 +22,49 @@ class lj_2sf:
         #起始链接
         # self.init_url = "http://sh.lianjia.com/ershoufang/d1"
         #设置报头
-        self.headers = headers = {
-            'User - Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
-        }
+        # self.headers = {
+        #     'User - Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
+        # }
 
-        #加入代理
+
+        #报头池
+        self.user_agent_list = [
+            "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1",
+            "Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11",
+            "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6",
+            "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6",
+            "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1",
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5",
+            "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5",
+            "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3",
+            "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3",
+            "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3",
+            "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3",
+            "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3",
+            "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3",
+            "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3",
+            "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3",
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24",
+            "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24"
+        ]
+
+        # 加入代理
         # 加入代理
         self.enable_proxy = True
         # proxy_handler = urllib2.ProxyHandler({"http": '101.231.67.202:808'})
         # 调试阶段，不设置代理
-        self.proxy_handler = urllib2.ProxyHandler({})
+        # self.iplist = []  ##初始化一个list用来存放我们获取到的IP
+        # html = requests.get("http://haoip.cc/tiqu.htm")  ##不解释咯
+        # iplistn = re.findall(r'r/>(.*?)<b', html.text,
+        #                      re.S)  ##表示从html.text中获取所有r/><b中的内容，re.S的意思是包括匹配包括换行符，findall返回的是个list哦！
+        # for ip in iplistn:
+        #     i = re.sub('\n', '', ip)  ##re.sub 是re模块替换的方法，这儿表示将\n替换为空
+        #     self.iplist.append(i.strip())  ##添加到我们上面初始化的list里面
+        #
+        # self.IP = ''.join(str(random.choice(self.iplist)).strip())  ##随机挑选IP代理地址
+        #
+        # self.proxy_handler = urllib2.ProxyHandler({"http": self.IP})
 
         # 加入cookies
         self.enable_cookie = True
@@ -39,14 +74,54 @@ class lj_2sf:
         self.cookie_handler = urllib2.HTTPCookieProcessor(self.cookie)
 
         # 设置opener
-        self.opener = urllib2.build_opener(self.proxy_handler, self.cookie_handler, urllib2.HTTPHandler)
+        # self.opener = urllib2.build_opener(self.proxy_handler, self.cookie_handler, urllib2.HTTPHandler)
 
+    #建立IP代理池
+    def getIP(self):
+        self.iplist = []
+        html = requests.get("http://haoip.cc/tiqu.htm")  ##不解释咯
+        iplistn = re.findall(r'r/>(.*?)<b', html.text,
+                             re.S)  ##表示从html.text中获取所有r/><b中的内容，re.S的意思是包括匹配包括换行符，findall返回的是个list哦！
+        for ip in iplistn:
+            i = re.sub('\n', '', ip)  ##re.sub 是re模块替换的方法，这儿表示将\n替换为空
+
+            # 测试IP代理是否可以用
+            i='%s'%str(i.strip())
+            print i, type(i)
+
+
+            openr = urllib2.build_opener(proxy_handler)
+
+            self.iplist.append(i.strip())  ##添加到我们上面初始化的list里面
+
+
+        IP = ''.join(str(random.choice(self.iplist)).strip())  ##随机挑选IP代理地址
+
+        print type(IP)
+
+        #测试IP代理是否可以用
+
+        # try:
+        #     html = urllib2.urlopen('http://www.baidu.com')
+        #
+        # return IP
 
     #获取页面
     def getPage(self, url):
         try:
-            request = urllib2.Request(url, headers = self.headers)
-            response = self.opener.open(request)
+            # 从self.user_agent_list中随机取出一个字符串（聪明的小哥儿一定发现了这是完整的User-Agent中：后面的一半段）
+            UA = random.choice(self.user_agent_list)
+            headers = {'User-Agent':UA}
+            request = urllib2.Request(url, headers = headers)
+
+            #设置代理池
+
+            proxy_handler = urllib2.ProxyHandler({"http": self.IP})
+
+            opener = urllib2.build_opener(proxy_handler, self.cookie_handler, urllib2.HTTPHandler)
+
+            response = opener.open(request)
+
             content = response.read()
         except urllib2.URLEroor, e:
             if hasattr(e,"code"):
@@ -272,12 +347,16 @@ class lj_2sf:
     #启动器
     def start(self,url,csv_control=False):
 
+        # self.IP = self.getIP()
+        self.IP = '111.177.124.140:9999'
+        print self.IP
+
          #是否初始化CSV
         if csv_control:
             self.init_Csv()
 
         #开始写入:
-        i=7
+        i=12
         while i<101:
             # url = "http://sh.lianjia.com/ershoufang/d"+str(i)
             url = url[0:-1]+str(i)
@@ -307,4 +386,13 @@ test = lj_2sf()
 # test.getDatas(url)
 # test.init_Csv()
 # test.getPageNum(url)
-test.start(url)
+# test.start(url)
+test.getIP()
+
+
+
+
+
+
+
+
