@@ -48,7 +48,7 @@ class lj_2sf:
             request = urllib2.Request(url, headers = self.headers)
             response = self.opener.open(request)
             content = response.read()
-        except urllib2.URLEroor, e:
+        except urllib2.URLError, e:
             if hasattr(e,"code"):
                 print e.code
             if hasattr(e,"reason"):
@@ -151,7 +151,7 @@ class lj_2sf:
                 # print son_url, title, block, type, area, distance, tax, key, price, price_pre, num ,son_data[0], son_data[1], son_data[2], son_data[3], son_data[4], son_data[5], son_data[6],son_data[7], son_data[8],son_data[9]
                 datas.append([son_url, title, block, type, area, distance, tax, key, price, price_pre, num ,son_data[0], son_data[1], son_data[2], son_data[3], son_data[4], son_data[5], son_data[6],son_data[7], son_data[8],son_data[9]])
 
-        except urllib2.URLEroor, e:
+        except urllib2.URLError, e:
             if hasattr(e, "code"):
                 print e.code
             if hasattr(e, "reason"):
@@ -218,13 +218,17 @@ class lj_2sf:
             data = [floor,build_time,fitment,orientation,pre_pay,month_pay,location,address,last_deal,house_property]
 
 
-        except urllib2.URLEroor, e:
+        except urllib2.URLError, e:
             if hasattr(e, "code"):
                 print e.code
+
             if hasattr(e, "reason"):
                 print e.reason
+
             else:
                 print "geSonData is Wrong"
+
+
 
         # print datas
         return data
@@ -276,14 +280,15 @@ class lj_2sf:
         if csv_control:
             self.init_Csv()
 
+
         #开始写入:
         i=7
         while i<101:
             # url = "http://sh.lianjia.com/ershoufang/d"+str(i)
-            url = url[0:-1]+str(i)
-            print url
-            # datas = self.getDatas(url)
-            self.SaveCsv(url)
+            page_url = url[0:-1]+str(i)
+            print page_url
+            # datas = self.getDatas(page_url)
+            self.SaveCsv(page_url)
             print "Page %s finished" % (str(i))
             i +=1
 
