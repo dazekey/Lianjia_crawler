@@ -1,0 +1,450 @@
+﻿[2017-03-12 11:28:55]0.115864847401
+[2017-03-12 11:29:45]0.159403526434
+[2017-03-12 11:30:07]getIPlist's time is 0.916678269127
+[2017-03-12 11:30:07]124.88.67.32:83
+[2017-03-12 11:30:07]浦东 page 1 is start crawling.
+[2017-03-12 11:30:07]http://sh.lianjia.com/ershoufang/pudongxinqu/d1
+[2017-03-12 11:30:07]proxy IP: 124.88.67.32:83
+[2017-03-12 11:30:07]getIPlist's time is 1.23003261184
+[2017-03-12 11:30:07]60.191.170.148:3128
+[2017-03-12 11:30:07]普陀 page 1 is start crawling.
+[2017-03-12 11:30:07]http://sh.lianjia.com/ershoufang/putuo/d1
+[2017-03-12 11:30:07]proxy IP: 60.191.170.148:3128
+[2017-03-12 11:30:08]getIPlist's time is 2.01944616994
+[2017-03-12 11:30:08]202.106.16.36:3128
+[2017-03-12 11:30:08]宝山 page 1 is start crawling.
+[2017-03-12 11:30:08]http://sh.lianjia.com/ershoufang/baoshan/d1
+[2017-03-12 11:30:08]proxy IP: 202.106.16.36:3128
+[2017-03-12 11:30:08]getIPlist's time is 1.95712176871
+[2017-03-12 11:30:08]124.88.67.32:81
+[2017-03-12 11:30:08]长宁 page 1 is start crawling.
+[2017-03-12 11:30:08]http://sh.lianjia.com/ershoufang/changning/d1
+[2017-03-12 11:30:08]proxy IP: 124.88.67.32:81
+[2017-03-12 11:30:10]restart
+[2017-03-12 11:30:10]普陀 page 1 is start crawling.
+[2017-03-12 11:30:10]http://sh.lianjia.com/ershoufang/putuo/d1
+[2017-03-12 11:30:10]proxy IP: 116.242.227.201:3128
+[2017-03-12 11:30:11]restart
+[2017-03-12 11:30:11]宝山 page 1 is start crawling.
+[2017-03-12 11:30:11]http://sh.lianjia.com/ershoufang/baoshan/d1
+[2017-03-12 11:30:11]proxy IP: 223.68.1.38:8000
+[2017-03-12 11:30:19]restart
+[2017-03-12 11:30:19]宝山 page 1 is start crawling.
+[2017-03-12 11:30:19]http://sh.lianjia.com/ershoufang/baoshan/d1
+[2017-03-12 11:30:19]proxy IP: 218.76.106.78:3128
+[2017-03-12 11:30:22]restart
+[2017-03-12 11:30:22]宝山 page 1 is start crawling.
+[2017-03-12 11:30:22]http://sh.lianjia.com/ershoufang/baoshan/d1
+[2017-03-12 11:30:22]proxy IP: 124.207.132.242:3128
+[2017-03-12 11:30:25]restart
+[2017-03-12 11:30:25]宝山 page 1 is start crawling.
+[2017-03-12 11:30:25]http://sh.lianjia.com/ershoufang/baoshan/d1
+[2017-03-12 11:30:25]proxy IP: 124.88.67.23:843
+[2017-03-12 11:30:28]restart
+[2017-03-12 11:30:28]宝山 page 1 is start crawling.
+[2017-03-12 11:30:28]http://sh.lianjia.com/ershoufang/baoshan/d1
+[2017-03-12 11:30:28]proxy IP: 121.201.24.248:8088
+[2017-03-12 11:30:31]restart
+[2017-03-12 11:30:31]普陀 page 1 is start crawling.
+[2017-03-12 11:30:31]http://sh.lianjia.com/ershoufang/putuo/d1
+[2017-03-12 11:30:31]proxy IP: 124.88.67.32:83
+[2017-03-12 11:30:31]restart
+[2017-03-12 11:30:31]宝山 page 1 is start crawling.
+[2017-03-12 11:30:31]http://sh.lianjia.com/ershoufang/baoshan/d1
+[2017-03-12 11:30:31]proxy IP: 124.88.67.17:843
+[2017-03-12 11:30:43]浦东 page 1 is finished.
+[2017-03-12 11:30:43]浦东 page 2 is start crawling.
+[2017-03-12 11:30:43]http://sh.lianjia.com/ershoufang/pudongxinqu/d2
+[2017-03-12 11:30:43]proxy IP: 124.88.67.32:83
+[2017-03-12 11:30:45]长宁 page 1 is finished.
+[2017-03-12 11:30:45]长宁 page 2 is start crawling.
+[2017-03-12 11:30:45]http://sh.lianjia.com/ershoufang/changning/d2
+[2017-03-12 11:30:45]proxy IP: 124.88.67.32:81
+[2017-03-12 11:30:53]宝山 page 1 is finished.
+[2017-03-12 11:30:53]宝山 page 2 is start crawling.
+[2017-03-12 11:30:53]http://sh.lianjia.com/ershoufang/baoshan/d2
+[2017-03-12 11:30:53]proxy IP: 124.88.67.17:843
+[2017-03-12 11:31:07]普陀 page 1 is finished.
+[2017-03-12 11:31:07]普陀 page 2 is start crawling.
+[2017-03-12 11:31:07]http://sh.lianjia.com/ershoufang/putuo/d2
+[2017-03-12 11:31:07]proxy IP: 124.88.67.32:83
+[2017-03-12 11:31:13]宝山 page 2 is finished.
+[2017-03-12 11:31:13]宝山 page 3 is start crawling.
+[2017-03-12 11:31:13]http://sh.lianjia.com/ershoufang/baoshan/d3
+[2017-03-12 11:31:13]proxy IP: 124.88.67.17:843
+[2017-03-12 11:31:19]浦东 page 2 is finished.
+[2017-03-12 11:31:19]浦东 page 3 is start crawling.
+[2017-03-12 11:31:19]http://sh.lianjia.com/ershoufang/pudongxinqu/d3
+[2017-03-12 11:31:19]proxy IP: 124.88.67.32:83
+[2017-03-12 11:31:21]长宁 page 2 is finished.
+[2017-03-12 11:31:21]长宁 page 3 is start crawling.
+[2017-03-12 11:31:21]http://sh.lianjia.com/ershoufang/changning/d3
+[2017-03-12 11:31:21]proxy IP: 124.88.67.32:81
+[2017-03-12 11:31:35]宝山 page 3 is finished.
+[2017-03-12 11:31:35]宝山 page 4 is start crawling.
+[2017-03-12 11:31:35]http://sh.lianjia.com/ershoufang/baoshan/d4
+[2017-03-12 11:31:35]proxy IP: 124.88.67.17:843
+[2017-03-12 11:31:45]普陀 page 2 is finished.
+[2017-03-12 11:31:45]普陀 page 3 is start crawling.
+[2017-03-12 11:31:45]http://sh.lianjia.com/ershoufang/putuo/d3
+[2017-03-12 11:31:45]proxy IP: 124.88.67.32:83
+[2017-03-12 11:31:58]宝山 page 4 is finished.
+[2017-03-12 11:31:58]宝山 page 5 is start crawling.
+[2017-03-12 11:31:58]http://sh.lianjia.com/ershoufang/baoshan/d5
+[2017-03-12 11:31:58]proxy IP: 124.88.67.17:843
+[2017-03-12 11:32:00]浦东 page 3 is finished.
+[2017-03-12 11:32:00]浦东 page 4 is start crawling.
+[2017-03-12 11:32:00]http://sh.lianjia.com/ershoufang/pudongxinqu/d4
+[2017-03-12 11:32:00]proxy IP: 124.88.67.32:83
+[2017-03-12 11:32:01]长宁 page 3 is finished.
+[2017-03-12 11:32:01]长宁 page 4 is start crawling.
+[2017-03-12 11:32:01]http://sh.lianjia.com/ershoufang/changning/d4
+[2017-03-12 11:32:01]proxy IP: 124.88.67.32:81
+[2017-03-12 11:32:19]宝山 page 5 is finished.
+[2017-03-12 11:32:19]宝山 page 6 is start crawling.
+[2017-03-12 11:32:19]http://sh.lianjia.com/ershoufang/baoshan/d6
+[2017-03-12 11:32:19]proxy IP: 124.88.67.17:843
+[2017-03-12 11:32:21]普陀 page 3 is finished.
+[2017-03-12 11:32:21]普陀 page 4 is start crawling.
+[2017-03-12 11:32:21]http://sh.lianjia.com/ershoufang/putuo/d4
+[2017-03-12 11:32:21]proxy IP: 124.88.67.32:83
+[2017-03-12 11:32:35]浦东 page 4 is finished.
+[2017-03-12 11:32:35]浦东 page 5 is start crawling.
+[2017-03-12 11:32:35]http://sh.lianjia.com/ershoufang/pudongxinqu/d5
+[2017-03-12 11:32:35]proxy IP: 124.88.67.32:83
+[2017-03-12 11:32:36]长宁 page 4 is finished.
+[2017-03-12 11:32:36]长宁 page 5 is start crawling.
+[2017-03-12 11:32:36]http://sh.lianjia.com/ershoufang/changning/d5
+[2017-03-12 11:32:36]proxy IP: 124.88.67.32:81
+[2017-03-12 11:32:40]宝山 page 6 is finished.
+[2017-03-12 11:32:40]宝山 page 7 is start crawling.
+[2017-03-12 11:32:40]http://sh.lianjia.com/ershoufang/baoshan/d7
+[2017-03-12 11:32:40]proxy IP: 124.88.67.17:843
+[2017-03-12 11:32:59]普陀 page 4 is finished.
+[2017-03-12 11:32:59]普陀 page 5 is start crawling.
+[2017-03-12 11:32:59]http://sh.lianjia.com/ershoufang/putuo/d5
+[2017-03-12 11:32:59]proxy IP: 124.88.67.32:83
+[2017-03-12 11:33:03]宝山 page 7 is finished.
+[2017-03-12 11:33:03]宝山 page 8 is start crawling.
+[2017-03-12 11:33:03]http://sh.lianjia.com/ershoufang/baoshan/d8
+[2017-03-12 11:33:03]proxy IP: 124.88.67.17:843
+[2017-03-12 11:33:11]浦东 page 5 is finished.
+[2017-03-12 11:33:11]浦东 page 6 is start crawling.
+[2017-03-12 11:33:11]http://sh.lianjia.com/ershoufang/pudongxinqu/d6
+[2017-03-12 11:33:11]proxy IP: 124.88.67.32:83
+[2017-03-12 11:33:13]长宁 page 5 is finished.
+[2017-03-12 11:33:13]长宁 page 6 is start crawling.
+[2017-03-12 11:33:13]http://sh.lianjia.com/ershoufang/changning/d6
+[2017-03-12 11:33:13]proxy IP: 124.88.67.32:81
+[2017-03-12 11:33:25]宝山 page 8 is finished.
+[2017-03-12 11:33:25]宝山 page 9 is start crawling.
+[2017-03-12 11:33:25]http://sh.lianjia.com/ershoufang/baoshan/d9
+[2017-03-12 11:33:25]proxy IP: 124.88.67.17:843
+[2017-03-12 11:33:35]普陀 page 5 is finished.
+[2017-03-12 11:33:35]普陀 page 6 is start crawling.
+[2017-03-12 11:33:35]http://sh.lianjia.com/ershoufang/putuo/d6
+[2017-03-12 11:33:35]proxy IP: 124.88.67.32:83
+[2017-03-12 11:33:50]浦东 page 6 is finished.
+[2017-03-12 11:33:50]浦东 page 7 is start crawling.
+[2017-03-12 11:33:50]http://sh.lianjia.com/ershoufang/pudongxinqu/d7
+[2017-03-12 11:33:50]proxy IP: 124.88.67.32:83
+[2017-03-12 11:33:51]长宁 page 6 is finished.
+[2017-03-12 11:33:51]长宁 page 7 is start crawling.
+[2017-03-12 11:33:51]http://sh.lianjia.com/ershoufang/changning/d7
+[2017-03-12 11:33:51]proxy IP: 124.88.67.32:81
+[2017-03-12 11:33:57]宝山 page 9 is finished.
+[2017-03-12 11:33:57]宝山 page 10 is start crawling.
+[2017-03-12 11:33:57]http://sh.lianjia.com/ershoufang/baoshan/d10
+[2017-03-12 11:33:57]proxy IP: 124.88.67.17:843
+[2017-03-12 11:34:15]普陀 page 6 is finished.
+[2017-03-12 11:34:15]普陀 page 7 is start crawling.
+[2017-03-12 11:34:15]http://sh.lianjia.com/ershoufang/putuo/d7
+[2017-03-12 11:34:15]proxy IP: 124.88.67.32:83
+[2017-03-12 11:34:29]浦东 page 7 is finished.
+[2017-03-12 11:34:29]浦东 page 8 is start crawling.
+[2017-03-12 11:34:29]http://sh.lianjia.com/ershoufang/pudongxinqu/d8
+[2017-03-12 11:34:29]proxy IP: 124.88.67.32:83
+[2017-03-12 11:34:29]长宁 page 7 is finished.
+[2017-03-12 11:34:29]长宁 page 8 is start crawling.
+[2017-03-12 11:34:29]http://sh.lianjia.com/ershoufang/changning/d8
+[2017-03-12 11:34:29]proxy IP: 124.88.67.32:81
+[2017-03-12 11:34:31]宝山 page 10 is finished.
+[2017-03-12 11:34:31]宝山 page 11 is start crawling.
+[2017-03-12 11:34:31]http://sh.lianjia.com/ershoufang/baoshan/d11
+[2017-03-12 11:34:31]proxy IP: 124.88.67.17:843
+[2017-03-12 11:34:54]普陀 page 7 is finished.
+[2017-03-12 11:34:54]普陀 page 8 is start crawling.
+[2017-03-12 11:34:54]http://sh.lianjia.com/ershoufang/putuo/d8
+[2017-03-12 11:34:54]proxy IP: 124.88.67.32:83
+[2017-03-12 11:35:01]宝山 page 11 is finished.
+[2017-03-12 11:35:01]宝山 page 12 is start crawling.
+[2017-03-12 11:35:01]http://sh.lianjia.com/ershoufang/baoshan/d12
+[2017-03-12 11:35:01]proxy IP: 124.88.67.17:843
+[2017-03-12 11:35:06]长宁 page 8 is finished.
+[2017-03-12 11:35:06]长宁 page 9 is start crawling.
+[2017-03-12 11:35:06]http://sh.lianjia.com/ershoufang/changning/d9
+[2017-03-12 11:35:06]proxy IP: 124.88.67.32:81
+[2017-03-12 11:35:07]浦东 page 8 is finished.
+[2017-03-12 11:35:07]浦东 page 9 is start crawling.
+[2017-03-12 11:35:07]http://sh.lianjia.com/ershoufang/pudongxinqu/d9
+[2017-03-12 11:35:07]proxy IP: 124.88.67.32:83
+[2017-03-12 11:35:28]宝山 page 12 is finished.
+[2017-03-12 11:35:28]宝山 page 13 is start crawling.
+[2017-03-12 11:35:28]http://sh.lianjia.com/ershoufang/baoshan/d13
+[2017-03-12 11:35:28]proxy IP: 124.88.67.17:843
+[2017-03-12 11:35:30]普陀 page 8 is finished.
+[2017-03-12 11:35:30]普陀 page 9 is start crawling.
+[2017-03-12 11:35:30]http://sh.lianjia.com/ershoufang/putuo/d9
+[2017-03-12 11:35:30]proxy IP: 124.88.67.32:83
+[2017-03-12 11:35:41]长宁 page 9 is finished.
+[2017-03-12 11:35:41]长宁 page 10 is start crawling.
+[2017-03-12 11:35:41]http://sh.lianjia.com/ershoufang/changning/d10
+[2017-03-12 11:35:41]proxy IP: 124.88.67.32:81
+[2017-03-12 11:35:43]浦东 page 9 is finished.
+[2017-03-12 11:35:43]浦东 page 10 is start crawling.
+[2017-03-12 11:35:43]http://sh.lianjia.com/ershoufang/pudongxinqu/d10
+[2017-03-12 11:35:43]proxy IP: 124.88.67.32:83
+[2017-03-12 11:35:56]宝山 page 13 is finished.
+[2017-03-12 11:35:56]宝山 page 14 is start crawling.
+[2017-03-12 11:35:56]http://sh.lianjia.com/ershoufang/baoshan/d14
+[2017-03-12 11:35:56]proxy IP: 124.88.67.17:843
+[2017-03-12 11:36:06]普陀 page 9 is finished.
+[2017-03-12 11:36:06]普陀 page 10 is start crawling.
+[2017-03-12 11:36:06]http://sh.lianjia.com/ershoufang/putuo/d10
+[2017-03-12 11:36:06]proxy IP: 124.88.67.32:83
+[2017-03-12 11:36:17]长宁 page 10 is finished.
+[2017-03-12 11:36:17]长宁 page 11 is start crawling.
+[2017-03-12 11:36:17]http://sh.lianjia.com/ershoufang/changning/d11
+[2017-03-12 11:36:17]proxy IP: 124.88.67.32:81
+[2017-03-12 11:36:18]浦东 page 10 is finished.
+[2017-03-12 11:36:18]浦东 page 11 is start crawling.
+[2017-03-12 11:36:18]http://sh.lianjia.com/ershoufang/pudongxinqu/d11
+[2017-03-12 11:36:18]proxy IP: 124.88.67.32:83
+[2017-03-12 11:36:21]宝山 page 14 is finished.
+[2017-03-12 11:36:21]宝山 page 15 is start crawling.
+[2017-03-12 11:36:21]http://sh.lianjia.com/ershoufang/baoshan/d15
+[2017-03-12 11:36:21]proxy IP: 124.88.67.17:843
+[2017-03-12 11:36:33]普陀 page 10 is finished.
+[2017-03-12 11:36:33]普陀 page 11 is start crawling.
+[2017-03-12 11:36:33]http://sh.lianjia.com/ershoufang/putuo/d11
+[2017-03-12 11:36:33]proxy IP: 124.88.67.32:83
+[2017-03-12 11:36:40]长宁 page 11 is finished.
+[2017-03-12 11:36:40]长宁 page 12 is start crawling.
+[2017-03-12 11:36:40]http://sh.lianjia.com/ershoufang/changning/d12
+[2017-03-12 11:36:40]proxy IP: 124.88.67.32:81
+[2017-03-12 11:36:41]浦东 page 11 is finished.
+[2017-03-12 11:36:41]浦东 page 12 is start crawling.
+[2017-03-12 11:36:41]http://sh.lianjia.com/ershoufang/pudongxinqu/d12
+[2017-03-12 11:36:41]proxy IP: 124.88.67.32:83
+[2017-03-12 11:36:50]宝山 page 15 is finished.
+[2017-03-12 11:36:50]宝山 page 16 is start crawling.
+[2017-03-12 11:36:50]http://sh.lianjia.com/ershoufang/baoshan/d16
+[2017-03-12 11:36:50]proxy IP: 124.88.67.17:843
+[2017-03-12 11:36:55]普陀 page 11 is finished.
+[2017-03-12 11:36:55]普陀 page 12 is start crawling.
+[2017-03-12 11:36:55]http://sh.lianjia.com/ershoufang/putuo/d12
+[2017-03-12 11:36:55]proxy IP: 124.88.67.32:83
+[2017-03-12 11:37:02]长宁 page 12 is finished.
+[2017-03-12 11:37:02]长宁 page 13 is start crawling.
+[2017-03-12 11:37:02]http://sh.lianjia.com/ershoufang/changning/d13
+[2017-03-12 11:37:02]proxy IP: 124.88.67.32:81
+[2017-03-12 11:37:04]浦东 page 12 is finished.
+[2017-03-12 11:37:04]浦东 page 13 is start crawling.
+[2017-03-12 11:37:04]http://sh.lianjia.com/ershoufang/pudongxinqu/d13
+[2017-03-12 11:37:04]proxy IP: 124.88.67.32:83
+[2017-03-12 11:37:16]宝山 page 16 is finished.
+[2017-03-12 11:37:16]宝山 page 17 is start crawling.
+[2017-03-12 11:37:16]http://sh.lianjia.com/ershoufang/baoshan/d17
+[2017-03-12 11:37:16]proxy IP: 124.88.67.17:843
+[2017-03-12 11:37:18]普陀 page 12 is finished.
+[2017-03-12 11:37:18]普陀 page 13 is start crawling.
+[2017-03-12 11:37:18]http://sh.lianjia.com/ershoufang/putuo/d13
+[2017-03-12 11:37:18]proxy IP: 124.88.67.32:83
+[2017-03-12 11:37:25]长宁 page 13 is finished.
+[2017-03-12 11:37:25]长宁 page 14 is start crawling.
+[2017-03-12 11:37:25]http://sh.lianjia.com/ershoufang/changning/d14
+[2017-03-12 11:37:25]proxy IP: 124.88.67.32:81
+[2017-03-12 11:37:27]浦东 page 13 is finished.
+[2017-03-12 11:37:27]浦东 page 14 is start crawling.
+[2017-03-12 11:37:27]http://sh.lianjia.com/ershoufang/pudongxinqu/d14
+[2017-03-12 11:37:27]proxy IP: 124.88.67.32:83
+[2017-03-12 11:37:42]普陀 page 13 is finished.
+[2017-03-12 11:37:42]普陀 page 14 is start crawling.
+[2017-03-12 11:37:42]http://sh.lianjia.com/ershoufang/putuo/d14
+[2017-03-12 11:37:42]proxy IP: 124.88.67.32:83
+[2017-03-12 11:37:43]宝山 page 17 is finished.
+[2017-03-12 11:37:43]宝山 page 18 is start crawling.
+[2017-03-12 11:37:43]http://sh.lianjia.com/ershoufang/baoshan/d18
+[2017-03-12 11:37:43]proxy IP: 124.88.67.17:843
+[2017-03-12 11:37:50]长宁 page 14 is finished.
+[2017-03-12 11:37:50]长宁 page 15 is start crawling.
+[2017-03-12 11:37:50]http://sh.lianjia.com/ershoufang/changning/d15
+[2017-03-12 11:37:50]proxy IP: 124.88.67.32:81
+[2017-03-12 11:37:53]浦东 page 14 is finished.
+[2017-03-12 11:37:53]浦东 page 15 is start crawling.
+[2017-03-12 11:37:53]http://sh.lianjia.com/ershoufang/pudongxinqu/d15
+[2017-03-12 11:37:53]proxy IP: 124.88.67.32:83
+[2017-03-12 11:38:06]普陀 page 14 is finished.
+[2017-03-12 11:38:06]普陀 page 15 is start crawling.
+[2017-03-12 11:38:06]http://sh.lianjia.com/ershoufang/putuo/d15
+[2017-03-12 11:38:06]proxy IP: 124.88.67.32:83
+[2017-03-12 11:38:10]宝山 page 18 is finished.
+[2017-03-12 11:38:10]宝山 page 19 is start crawling.
+[2017-03-12 11:38:10]http://sh.lianjia.com/ershoufang/baoshan/d19
+[2017-03-12 11:38:10]proxy IP: 124.88.67.17:843
+[2017-03-12 11:38:15]长宁 page 15 is finished.
+[2017-03-12 11:38:15]长宁 page 16 is start crawling.
+[2017-03-12 11:38:15]http://sh.lianjia.com/ershoufang/changning/d16
+[2017-03-12 11:38:15]proxy IP: 124.88.67.32:81
+[2017-03-12 11:38:16]浦东 page 15 is finished.
+[2017-03-12 11:38:16]浦东 page 16 is start crawling.
+[2017-03-12 11:38:16]http://sh.lianjia.com/ershoufang/pudongxinqu/d16
+[2017-03-12 11:38:16]proxy IP: 124.88.67.32:83
+[2017-03-12 11:38:30]普陀 page 15 is finished.
+[2017-03-12 11:38:30]普陀 page 16 is start crawling.
+[2017-03-12 11:38:30]http://sh.lianjia.com/ershoufang/putuo/d16
+[2017-03-12 11:38:30]proxy IP: 124.88.67.32:83
+[2017-03-12 11:38:32]宝山 page 19 is finished.
+[2017-03-12 11:38:32]宝山 page 20 is start crawling.
+[2017-03-12 11:38:32]http://sh.lianjia.com/ershoufang/baoshan/d20
+[2017-03-12 11:38:32]proxy IP: 124.88.67.17:843
+[2017-03-12 11:38:39]长宁 page 16 is finished.
+[2017-03-12 11:38:39]长宁 page 17 is start crawling.
+[2017-03-12 11:38:39]http://sh.lianjia.com/ershoufang/changning/d17
+[2017-03-12 11:38:39]proxy IP: 124.88.67.32:81
+[2017-03-12 11:38:40]浦东 page 16 is finished.
+[2017-03-12 11:38:40]浦东 page 17 is start crawling.
+[2017-03-12 11:38:40]http://sh.lianjia.com/ershoufang/pudongxinqu/d17
+[2017-03-12 11:38:40]proxy IP: 124.88.67.32:83
+[2017-03-12 11:38:55]普陀 page 16 is finished.
+[2017-03-12 11:38:55]普陀 page 17 is start crawling.
+[2017-03-12 11:38:55]http://sh.lianjia.com/ershoufang/putuo/d17
+[2017-03-12 11:38:55]proxy IP: 124.88.67.32:83
+[2017-03-12 11:38:55]宝山 page 20 is finished.
+[2017-03-12 11:38:55]宝山 page 21 is start crawling.
+[2017-03-12 11:38:55]http://sh.lianjia.com/ershoufang/baoshan/d21
+[2017-03-12 11:38:55]proxy IP: 124.88.67.17:843
+[2017-03-12 11:39:04]长宁 page 17 is finished.
+[2017-03-12 11:39:04]长宁 page 18 is start crawling.
+[2017-03-12 11:39:04]http://sh.lianjia.com/ershoufang/changning/d18
+[2017-03-12 11:39:04]proxy IP: 124.88.67.32:81
+[2017-03-12 11:39:05]浦东 page 17 is finished.
+[2017-03-12 11:39:05]浦东 page 18 is start crawling.
+[2017-03-12 11:39:05]http://sh.lianjia.com/ershoufang/pudongxinqu/d18
+[2017-03-12 11:39:05]proxy IP: 124.88.67.32:83
+[2017-03-12 11:39:17]宝山 page 21 is finished.
+[2017-03-12 11:39:17]宝山 page 22 is start crawling.
+[2017-03-12 11:39:17]http://sh.lianjia.com/ershoufang/baoshan/d22
+[2017-03-12 11:39:17]proxy IP: 124.88.67.17:843
+[2017-03-12 11:39:19]普陀 page 17 is finished.
+[2017-03-12 11:39:19]普陀 page 18 is start crawling.
+[2017-03-12 11:39:19]http://sh.lianjia.com/ershoufang/putuo/d18
+[2017-03-12 11:39:19]proxy IP: 124.88.67.32:83
+[2017-03-12 11:39:27]长宁 page 18 is finished.
+[2017-03-12 11:39:27]长宁 page 19 is start crawling.
+[2017-03-12 11:39:27]http://sh.lianjia.com/ershoufang/changning/d19
+[2017-03-12 11:39:27]proxy IP: 124.88.67.32:81
+[2017-03-12 11:39:29]浦东 page 18 is finished.
+[2017-03-12 11:39:29]浦东 page 19 is start crawling.
+[2017-03-12 11:39:29]http://sh.lianjia.com/ershoufang/pudongxinqu/d19
+[2017-03-12 11:39:29]proxy IP: 124.88.67.32:83
+[2017-03-12 11:39:38]宝山 page 22 is finished.
+[2017-03-12 11:39:38]宝山 page 23 is start crawling.
+[2017-03-12 11:39:38]http://sh.lianjia.com/ershoufang/baoshan/d23
+[2017-03-12 11:39:38]proxy IP: 124.88.67.17:843
+[2017-03-12 11:39:44]普陀 page 18 is finished.
+[2017-03-12 11:39:44]普陀 page 19 is start crawling.
+[2017-03-12 11:39:44]http://sh.lianjia.com/ershoufang/putuo/d19
+[2017-03-12 11:39:44]proxy IP: 124.88.67.32:83
+[2017-03-12 11:39:50]长宁 page 19 is finished.
+[2017-03-12 11:39:50]长宁 page 20 is start crawling.
+[2017-03-12 11:39:50]http://sh.lianjia.com/ershoufang/changning/d20
+[2017-03-12 11:39:50]proxy IP: 124.88.67.32:81
+[2017-03-12 11:39:54]浦东 page 19 is finished.
+[2017-03-12 11:39:54]浦东 page 20 is start crawling.
+[2017-03-12 11:39:54]http://sh.lianjia.com/ershoufang/pudongxinqu/d20
+[2017-03-12 11:39:54]proxy IP: 124.88.67.32:83
+[2017-03-12 11:40:01]宝山 page 23 is finished.
+[2017-03-12 11:40:01]宝山 page 24 is start crawling.
+[2017-03-12 11:40:01]http://sh.lianjia.com/ershoufang/baoshan/d24
+[2017-03-12 11:40:01]proxy IP: 124.88.67.17:843
+[2017-03-12 11:40:08]普陀 page 19 is finished.
+[2017-03-12 11:40:08]普陀 page 20 is start crawling.
+[2017-03-12 11:40:08]http://sh.lianjia.com/ershoufang/putuo/d20
+[2017-03-12 11:40:08]proxy IP: 124.88.67.32:83
+[2017-03-12 11:40:15]长宁 page 20 is finished.
+[2017-03-12 11:40:15]长宁 page 21 is start crawling.
+[2017-03-12 11:40:15]http://sh.lianjia.com/ershoufang/changning/d21
+[2017-03-12 11:40:15]proxy IP: 124.88.67.32:81
+[2017-03-12 11:40:20]浦东 page 20 is finished.
+[2017-03-12 11:40:20]浦东 page 21 is start crawling.
+[2017-03-12 11:40:20]http://sh.lianjia.com/ershoufang/pudongxinqu/d21
+[2017-03-12 11:40:20]proxy IP: 124.88.67.32:83
+[2017-03-12 11:40:24]宝山 page 24 is finished.
+[2017-03-12 11:40:24]宝山 page 25 is start crawling.
+[2017-03-12 11:40:24]http://sh.lianjia.com/ershoufang/baoshan/d25
+[2017-03-12 11:40:24]proxy IP: 124.88.67.17:843
+[2017-03-12 11:40:32]普陀 page 20 is finished.
+[2017-03-12 11:40:32]普陀 page 21 is start crawling.
+[2017-03-12 11:40:32]http://sh.lianjia.com/ershoufang/putuo/d21
+[2017-03-12 11:40:32]proxy IP: 124.88.67.32:83
+[2017-03-12 11:40:38]长宁 page 21 is finished.
+[2017-03-12 11:40:38]长宁 page 22 is start crawling.
+[2017-03-12 11:40:38]http://sh.lianjia.com/ershoufang/changning/d22
+[2017-03-12 11:40:38]proxy IP: 124.88.67.32:81
+[2017-03-12 11:40:45]浦东 page 21 is finished.
+[2017-03-12 11:40:45]浦东 page 22 is start crawling.
+[2017-03-12 11:40:45]http://sh.lianjia.com/ershoufang/pudongxinqu/d22
+[2017-03-12 11:40:45]proxy IP: 124.88.67.32:83
+[2017-03-12 11:40:47]宝山 page 25 is finished.
+[2017-03-12 11:40:47]宝山 page 26 is start crawling.
+[2017-03-12 11:40:47]http://sh.lianjia.com/ershoufang/baoshan/d26
+[2017-03-12 11:40:47]proxy IP: 124.88.67.17:843
+[2017-03-12 11:40:56]普陀 page 21 is finished.
+[2017-03-12 11:40:56]普陀 page 22 is start crawling.
+[2017-03-12 11:40:56]http://sh.lianjia.com/ershoufang/putuo/d22
+[2017-03-12 11:40:56]proxy IP: 124.88.67.32:83
+[2017-03-12 11:41:03]长宁 page 22 is finished.
+[2017-03-12 11:41:03]长宁 page 23 is start crawling.
+[2017-03-12 11:41:03]http://sh.lianjia.com/ershoufang/changning/d23
+[2017-03-12 11:41:03]proxy IP: 124.88.67.32:81
+[2017-03-12 11:41:08]宝山 page 26 is finished.
+[2017-03-12 11:41:08]宝山 page 27 is start crawling.
+[2017-03-12 11:41:08]http://sh.lianjia.com/ershoufang/baoshan/d27
+[2017-03-12 11:41:08]proxy IP: 124.88.67.17:843
+[2017-03-12 11:41:11]浦东 page 22 is finished.
+[2017-03-12 11:41:11]浦东 page 23 is start crawling.
+[2017-03-12 11:41:11]http://sh.lianjia.com/ershoufang/pudongxinqu/d23
+[2017-03-12 11:41:11]proxy IP: 124.88.67.32:83
+[2017-03-12 11:44:50]getIPlist's time is 0.265014476301
+[2017-03-12 11:44:50]121.248.112.20:3128
+[2017-03-12 11:44:50]宝山 page 1 is start crawling.
+[2017-03-12 11:44:50]getIPlist's time is 0.261781852324
+[2017-03-12 11:44:50]http://sh.lianjia.com/ershoufang/baoshan/d1
+[2017-03-12 11:44:50]61.160.254.23:23
+[2017-03-12 11:44:50]proxy IP: 121.248.112.20:3128
+[2017-03-12 11:44:50]浦东 page 1 is start crawling.
+[2017-03-12 11:44:50]http://sh.lianjia.com/ershoufang/pudongxinqu/d1
+[2017-03-12 11:44:50]proxy IP: 61.160.254.23:23
+[2017-03-12 11:44:50]getIPlist's time is 0.24525816367
+[2017-03-12 11:44:50]121.201.24.248:8088
+[2017-03-12 11:44:50]长宁 page 1 is start crawling.
+[2017-03-12 11:44:50]http://sh.lianjia.com/ershoufang/changning/d1
+[2017-03-12 11:44:50]proxy IP: 121.201.24.248:8088
+[2017-03-12 11:44:50]getIPlist's time is 0.453939570816
+[2017-03-12 11:44:50]60.15.8.130:3128
+[2017-03-12 11:44:50]普陀 page 1 is start crawling.
+[2017-03-12 11:44:50]http://sh.lianjia.com/ershoufang/putuo/d1
+[2017-03-12 11:44:50]proxy IP: 60.15.8.130:3128
+[2017-03-12 11:44:53]restart
+[2017-03-12 11:44:53]浦东 page 1 is start crawling.
+[2017-03-12 11:44:53]http://sh.lianjia.com/ershoufang/pudongxinqu/d1
+[2017-03-12 11:44:53]proxy IP: 60.191.157.20:3128
+[2017-03-12 11:44:53]restart
+[2017-03-12 11:44:53]长宁 page 1 is start crawling.
+[2017-03-12 11:44:53]http://sh.lianjia.com/ershoufang/changning/d1
+[2017-03-12 11:44:53]proxy IP: 124.207.186.154:3128
+[2017-03-12 11:44:53]restart
+[2017-03-12 11:44:53]普陀 page 1 is start crawling.
+[2017-03-12 11:44:53]http://sh.lianjia.com/ershoufang/putuo/d1
+[2017-03-12 11:44:53]proxy IP: 120.24.73.165:3128

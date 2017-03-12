@@ -17,7 +17,9 @@
     <SUITE FILE_PATH="coverage/Lianjia_crawler$sh_lj_pro1.coverage" NAME="sh_lj_pro1 Coverage Results" MODIFIED="1488986746910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
     <SUITE FILE_PATH="coverage/Lianjia_crawler$sh_lj_test.coverage" NAME="sh_lj_test Coverage Results" MODIFIED="1488615509300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
     <SUITE FILE_PATH="coverage/Lianjia_crawler$sh_lj_pro__1_.coverage" NAME="sh_lj_pro (1) Coverage Results" MODIFIED="1488981655068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
-    <SUITE FILE_PATH="coverage/Lianjia_crawler$proxy.coverage" NAME="proxy Coverage Results" MODIFIED="1489062007499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
+    <SUITE FILE_PATH="coverage/Lianjia_crawler$sh_lj_pro_v0_2.coverage" NAME="sh_lj_pro_v0.2 Coverage Results" MODIFIED="1489158060556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
+    <SUITE FILE_PATH="coverage/Lianjia_crawler$sh_lj_pro_v0_3.coverage" NAME="sh_lj_pro_v0.3 Coverage Results" MODIFIED="1489158141614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
+    <SUITE FILE_PATH="coverage/Lianjia_crawler$proxy.coverage" NAME="proxy Coverage Results" MODIFIED="1489158044656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
     <SUITE FILE_PATH="coverage/Lianjia_crawler$text.coverage" NAME="text Coverage Results" MODIFIED="1488982304040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
     <SUITE FILE_PATH="coverage/Lianjia_crawler$sh_lj_pro_v0_1.coverage" NAME="sh_lj_pro_v0.1 Coverage Results" MODIFIED="1489074453104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
   </component>
@@ -38,23 +40,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="sh_lj_pro_v0.1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sh_lj_pro_v0.1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawler/sh_lj_pro_v0.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="419" column="63" lean-forward="false" selection-start-line="419" selection-start-column="63" selection-end-line="419" selection-end-column="63" />
+            <state relative-caret-position="361">
+              <caret line="457" column="14" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="457" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sh_lj_pro_v0.3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler/sh_lj_pro_v0.3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1043">
+              <caret line="431" column="0" lean-forward="false" selection-start-line="431" selection-start-column="0" selection-end-line="431" selection-end-column="0" />
               <folding>
-                <element signature="e#42#55#0" expanded="true" />
-                <element signature="e#306#311#0" expanded="false" />
-                <element signature="e#4128#4145#0" expanded="false" />
-                <element signature="e#6114#6141#0" expanded="false" />
+                <element signature="e#132#145#0" expanded="true" />
+                <element signature="e#391#799#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sh_li_pro_v0.2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawler/sh_li_pro_v0.2.py">
+      <file leaf-file-name="config.py" pinned="false" current-in-tab="true">
+        <entry file="file://C:/ProgramData/Anaconda2/Lib/logging/config.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -63,24 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sh_lj_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawler/sh_lj_test.py">
+      <file leaf-file-name="adapters.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/ProgramData/Anaconda2/Lib/site-packages/requests/adapters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3753">
-              <caret line="147" column="29" lean-forward="false" selection-start-line="147" selection-start-column="29" selection-end-line="147" selection-end-column="29" />
-              <folding>
-                <marker date="1488702952000" expanded="true" signature="11460:11787" ph="..." />
-                <marker date="1488702952000" expanded="true" signature="11818:11987" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sh_lj_pro.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawler/sh_lj_pro.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7479">
-              <caret line="287" column="39" lean-forward="false" selection-start-line="287" selection-start-column="39" selection-end-line="287" selection-end-column="39" />
+            <state relative-caret-position="198">
+              <caret line="486" column="0" lean-forward="false" selection-start-line="486" selection-start-column="0" selection-end-line="486" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -89,32 +86,8 @@
       <file leaf-file-name="proxy.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawler/proxy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1755">
+            <state relative-caret-position="1053">
               <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-              <folding>
-                <element signature="e#23#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="text.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawler/text.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-              <folding>
-                <element signature="e#42#55#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IPlist.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawler/IPlist.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -131,7 +104,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>csv</find>
+      <find>self.c</find>
       <find>self.IP</find>
+      <find>i</find>
+      <find>sh_lj_2s_pro</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -148,6 +125,8 @@
         <option value="$PROJECT_DIR$/crawler/sh_lj_pro1.py" />
         <option value="$PROJECT_DIR$/crawler/sh_li_pro_v0.2.py" />
         <option value="$PROJECT_DIR$/crawler/sh_lj_pro_v0.1.py" />
+        <option value="$PROJECT_DIR$/crawler/out.log" />
+        <option value="$PROJECT_DIR$/crawler/sh_lj_pro_v0.3.py" />
       </list>
     </option>
   </component>
@@ -160,7 +139,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -194,6 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -222,13 +202,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../crawler/fang_land" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="125" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
@@ -248,7 +227,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
-  <component name="RunManager" selected="Python.sh_lj_pro_v0.1">
+  <component name="RunManager" selected="Python.sh_lj_pro_v0.3">
     <configuration default="false" name="proxy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,24 +242,6 @@
       <module name="Lianjia_crawler" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler/proxy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="sh_lj_pro (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawler" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Lianjia_crawler" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler/sh_lj_pro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -303,24 +264,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="text" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawler" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Lianjia_crawler" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler/text.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="sh_lj_pro_v0.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,6 +278,42 @@
       <module name="Lianjia_crawler" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler/sh_lj_pro_v0.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sh_lj_pro_v0.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lianjia_crawler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler/sh_lj_pro_v0.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sh_lj_pro_v0.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lianjia_crawler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler/sh_lj_pro_v0.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -555,18 +534,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.proxy" />
-      <item index="1" class="java.lang.String" itemvalue="Python.sh_lj_pro (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sh_lj_pro1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.text" />
-      <item index="4" class="java.lang.String" itemvalue="Python.sh_lj_pro_v0.1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sh_lj_pro1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sh_lj_pro_v0.1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sh_lj_pro_v0.3" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sh_lj_pro_v0.2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.sh_lj_pro_v0.1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.proxy" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sh_lj_pro1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.text" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sh_lj_pro (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sh_lj_pro_v0.3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sh_lj_pro_v0.2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.proxy" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sh_lj_pro_v0.1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sh_lj_pro1" />
       </list>
     </recent_temporary>
   </component>
@@ -596,20 +575,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18374817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18281938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35767195" sideWeight="0.52447915" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4914712" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4914712" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35703" sideWeight="0.47552082" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39894179" sideWeight="0.4875" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39810428" sideWeight="0.4875" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -656,33 +635,23 @@
           <line>119</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crawler/sh_lj_pro_v0.3.py</url>
+          <line>424</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crawler/sh_lj_pro_v0.3.py</url>
+          <line>438</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="14" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/crawler/sh_lj_pro_v0.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#42#55#0" expanded="true" />
-            <element signature="e#306#311#0" expanded="false" />
-            <element signature="e#4128#4145#0" expanded="false" />
-            <element signature="e#6114#6141#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/sh_li_pro_v0.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/sh_li_pro_v0.2.py" />
     <entry file="file://$PROJECT_DIR$/crawler/sh_lj_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3753">
@@ -706,9 +675,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1755">
           <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding>
-            <element signature="e#23#32#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -717,7 +684,7 @@
         <state relative-caret-position="621">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding>
-            <element signature="e#42#55#0" expanded="true" />
+            <element signature="e#42#55#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -734,23 +701,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#42#55#0" expanded="true" />
-            <element signature="e#306#311#0" expanded="false" />
-            <element signature="e#4128#4145#0" expanded="false" />
-            <element signature="e#6114#6141#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/sh_li_pro_v0.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/sh_li_pro_v0.2.py" />
     <entry file="file://$PROJECT_DIR$/crawler/sh_lj_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2641">
@@ -774,9 +729,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="874">
           <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-          <folding>
-            <element signature="e#23#32#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -785,7 +738,7 @@
         <state relative-caret-position="437">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding>
-            <element signature="e#42#55#0" expanded="true" />
+            <element signature="e#42#55#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -802,23 +755,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#42#55#0" expanded="true" />
-            <element signature="e#306#311#0" expanded="false" />
-            <element signature="e#4128#4145#0" expanded="false" />
-            <element signature="e#6114#6141#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/sh_li_pro_v0.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/sh_li_pro_v0.2.py" />
     <entry file="file://$PROJECT_DIR$/crawler/sh_lj_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4410">
@@ -842,9 +783,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1380">
           <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-          <folding>
-            <element signature="e#23#32#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -853,7 +792,7 @@
         <state relative-caret-position="690">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding>
-            <element signature="e#42#55#0" expanded="true" />
+            <element signature="e#42#55#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -870,12 +809,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9420">
           <caret line="314" column="23" lean-forward="false" selection-start-line="314" selection-start-column="23" selection-end-line="314" selection-end-column="23" />
-          <folding>
-            <element signature="e#42#55#0" expanded="true" />
-            <element signature="e#306#311#0" expanded="false" />
-            <element signature="e#4128#4145#0" expanded="false" />
-            <element signature="e#6114#6141#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -902,9 +836,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#23#32#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -912,12 +844,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1691">
           <caret line="89" column="28" lean-forward="false" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
-          <folding>
-            <element signature="e#42#55#0" expanded="true" />
-            <element signature="e#306#311#0" expanded="false" />
-            <element signature="e#4128#4145#0" expanded="false" />
-            <element signature="e#6114#6141#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -933,9 +860,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#23#32#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -943,12 +868,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3680">
           <caret line="160" column="34" lean-forward="false" selection-start-line="160" selection-start-column="27" selection-end-line="160" selection-end-column="34" />
-          <folding>
-            <element signature="e#42#55#0" expanded="true" />
-            <element signature="e#306#311#0" expanded="false" />
-            <element signature="e#4128#4145#0" expanded="false" />
-            <element signature="e#6114#6141#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -964,9 +884,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="e#23#32#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -974,12 +892,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3887">
           <caret line="169" column="0" lean-forward="false" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
-          <folding>
-            <element signature="e#42#55#0" expanded="true" />
-            <element signature="e#306#311#0" expanded="false" />
-            <element signature="e#4128#4145#0" expanded="false" />
-            <element signature="e#6114#6141#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -998,12 +911,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1674">
           <caret line="93" column="70" lean-forward="false" selection-start-line="93" selection-start-column="70" selection-end-line="93" selection-end-column="70" />
-          <folding>
-            <element signature="e#42#55#0" expanded="true" />
-            <element signature="e#306#311#0" expanded="false" />
-            <element signature="e#4128#4145#0" expanded="false" />
-            <element signature="e#6114#6141#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1081,12 +989,21 @@
         <state relative-caret-position="621">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding>
-            <element signature="e#42#55#0" expanded="true" />
+            <element signature="e#42#55#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/sh_li_pro_v0.2.py">
+    <entry file="file://$PROJECT_DIR$/crawler/sh_li_pro_v0.2.py" />
+    <entry file="file://$PROJECT_DIR$/crawler/sh_lj_pro_v0.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="457" column="14" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="457" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/out.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1096,24 +1013,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/proxy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
+        <state relative-caret-position="1053">
           <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/sh_lj_pro_v0.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="426" column="26" lean-forward="true" selection-start-line="426" selection-start-column="26" selection-end-line="426" selection-end-column="26" />
           <folding>
-            <element signature="e#23#32#0" expanded="true" />
+            <element signature="e#141#154#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/sh_lj_pro_v0.1.py">
+    <entry file="file://C:/ProgramData/Anaconda2/Lib/site-packages/requests/adapters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="419" column="63" lean-forward="false" selection-start-line="419" selection-start-column="63" selection-end-line="419" selection-end-column="63" />
+        <state relative-caret-position="198">
+          <caret line="486" column="0" lean-forward="false" selection-start-line="486" selection-start-column="0" selection-end-line="486" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/sh_lj_pro_v0.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1043">
+          <caret line="431" column="0" lean-forward="false" selection-start-line="431" selection-start-column="0" selection-end-line="431" selection-end-column="0" />
           <folding>
-            <element signature="e#42#55#0" expanded="true" />
-            <element signature="e#306#311#0" expanded="false" />
-            <element signature="e#4128#4145#0" expanded="false" />
-            <element signature="e#6114#6141#0" expanded="false" />
+            <element signature="e#132#145#0" expanded="true" />
+            <element signature="e#391#799#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda2/Lib/logging/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
